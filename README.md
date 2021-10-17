@@ -1,2 +1,2 @@
 # aircraft-take-off-system-SQL-
-Sql kullanarak uçak kalkış sistemi tasarlama
+Designing an airplane takeoff system using SQL
